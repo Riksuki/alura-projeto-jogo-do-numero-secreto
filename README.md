@@ -1,3 +1,5 @@
+## Jogo do Número Secreto
+
 **PT-BR**
 
 Olá, eu estou iniciando agora minha jornada no mundo da programação e esse é o meu primeiro projeto, feito como parte de um curso da plataforma digital de aprendizado Alura. As partes do código em HTML e em CSS foram fornecidas pelo curso e não tiveram involvimento meu, apenas a parte em JavaSript foi escrita por mim. 
