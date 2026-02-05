@@ -1,4 +1,4 @@
-PT-BR
+**PT-BR**
 
 Olá, eu estou iniciando agora minha jornada no mundo da programação e esse é o meu primeiro projeto, feito como parte de um curso da plataforma digital de aprendizado Alura. As partes do código em HTML e em CSS foram fornecidas pelo curso e não tiveram involvimento meu, apenas a parte em JavaSript foi escrita por mim. 
 
@@ -8,7 +8,7 @@ O projeto consiste de um jogo simples de browser de advinhação de números, o 
 
 ----------------------------------------------------------------------
 
-ENGLISH
+**ENGLISH**
 
 Hello, I am just starting my journey in the programming world and this is my first project, it's done as part of a course on the digital learning plafrome Alura. The parts of the code written in HTML and in CSS were provided by the course and didn't involve me, I've only written the JavaScript part.
 
